@@ -1,0 +1,16 @@
+{
+    "title": "Power of One",
+    "year": 1992,
+    "isAvailable": true,
+    "genres": ["Sports", "Drama", "Action"],
+    "cast": [
+      {
+        "name": "Stephen Dorff",
+        "role": "Lead"
+      },
+      {
+        "name": "Morgan Freeman",
+        "role": "Supporting"
+      }
+    ]
+  }
